@@ -7,8 +7,22 @@ function Services() {
   return (
     <div id="services" className="services">
       <div className="spc-container">
-        <div className="spcl">Services</div>
-        <div className="special-sub-header services-sub-header">
+        <div
+          data-aos="fade-in"
+          data-aos-duration="1000"
+          data-aos-delay="50"
+          data-aos-easing="ease-in-out-quad"
+          className="spcl"
+        >
+          Services
+        </div>
+        <div
+          data-aos="fade-up"
+          duration="1500"
+          data-aos-delay="500"
+          data-aos-easing="ease-in-out-back"
+          className="special-sub-header services-sub-header"
+        >
           see what we provide!
         </div>
       </div>

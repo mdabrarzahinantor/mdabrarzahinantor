@@ -11,8 +11,22 @@ function About() {
   return (
     <div id="projects" className="about">
       <div className="spc-container">
-        <div className=" spcl">Projects</div>
-        <div className="about-sub-header special-sub-header">
+        <div
+          data-aos="fade-in"
+          data-aos-duration="1000"
+          data-aos-delay="50"
+          data-aos-easing="ease-in-out-quad"
+          className=" spcl"
+        >
+          Projects
+        </div>
+        <div
+          data-aos="fade-up"
+          duration="1500"
+          data-aos-delay="500"
+          data-aos-easing="ease-in-out-back"
+          className="about-sub-header special-sub-header"
+        >
           create your first project that inspires
         </div>
       </div>
@@ -25,11 +39,19 @@ function About() {
             <img src={AboutCardIllustrationSearchEngineAnimated} />
           </div>
           <div className="about-card-container">
-            <div className="about-card-header">search engine webapp using:</div>
+            <div
+              data-aos="zoom-in"
+              data-aos-duration="1000"
+              data-aos-delay="50"
+              data-aos-easing="ease-in-out-back"
+              className="about-card-header"
+            >
+              search engine webapp using:
+            </div>
             <div className="about-card-desc">
               <ul>
                 <li>
-                  <img src={Bullet} /> <div> ReactJS</div>
+                  <img src={Bullet} /> <div>ReactJS</div>
                 </li>
                 <li>
                   <img src={Bullet} />
@@ -59,7 +81,13 @@ function About() {
             <img src={AboutCardIllustrationCoronaTrackerAnimated} />
           </div>
           <div className="about-card-container">
-            <div className="about-card-header">
+            <div
+              data-aos="zoom-in"
+              data-aos-duration="1000"
+              data-aos-delay="50"
+              data-aos-easing="ease-in-out-back"
+              className="about-card-header"
+            >
               realtime Covid19 tracker using:
             </div>
             <div className="about-card-desc">
@@ -95,7 +123,15 @@ function About() {
             <img src={AboutCardIllustrationChatWebAppAnimated} />
           </div>
           <div className="about-card-container">
-            <div className="about-card-header">chat webapp using: </div>
+            <div
+              data-aos="zoom-in"
+              data-aos-duration="1000"
+              data-aos-delay="50"
+              data-aos-easing="ease-in-out-back"
+              className="about-card-header"
+            >
+              chat webapp using:{" "}
+            </div>
             <div className="about-card-desc">
               <ul>
                 <li>
@@ -133,7 +169,15 @@ function About() {
             <img src={AboutCardIllustrationEcommerceAnimated} />
           </div>
           <div className="about-card-container">
-            <div className="about-card-header">ecommerce webapp using:</div>
+            <div
+              data-aos="zoom-in"
+              data-aos-duration="1000"
+              data-aos-delay="50"
+              data-aos-easing="ease-in-out-back"
+              className="about-card-header"
+            >
+              ecommerce webapp using:
+            </div>
             <div className="about-card-desc">
               <ul>
                 <li>
@@ -175,7 +219,15 @@ function About() {
             />
           </div>
           <div className="about-card-container">
-            <div className="about-card-header">social media webapp using:</div>
+            <div
+              data-aos="zoom-in"
+              data-aos-duration="1000"
+              data-aos-delay="50"
+              data-aos-easing="ease-in-out-back"
+              className="about-card-header"
+            >
+              social media webapp using:
+            </div>
             <div className="about-card-desc">
               <ul>
                 <li>

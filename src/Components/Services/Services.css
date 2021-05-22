@@ -171,3 +171,10 @@
     font-size: 1.5rem;
   }
 }
+
+.services-card {
+  cursor: pointer;
+}
+.services-card:hover {
+  transform: translateY(3px);
+}

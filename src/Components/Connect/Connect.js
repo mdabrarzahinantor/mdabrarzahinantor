@@ -3,13 +3,33 @@ import "./Connect.css";
 function Connect() {
   return (
     <div id="connect" className="connect">
-      <div className=" spcl">Connect</div>
-      <div className="connect-sub-header special-sub-header">
+      <div
+        data-aos="fade-in"
+        data-aos-duration="1000"
+        data-aos-delay="50"
+        data-aos-easing="ease-in-out-quad"
+        className=" spcl"
+      >
+        Connect
+      </div>
+      <div
+        data-aos="fade-up"
+        duration="1500"
+        data-aos-delay="500"
+        data-aos-easing="ease-in-out-back"
+        className="connect-sub-header special-sub-header"
+      >
         What are you thinking about?
       </div>
       <div className="connect-container">
         <div className="connect-left">
-          <div className="connect-left-header">
+          <div
+            data-aos="zoom-in"
+            duration="1500"
+            data-aos-delay="500"
+            data-aos-easing="ease-in-out-back"
+            className="connect-left-header"
+          >
             LET'S
             <br />
             TALK!

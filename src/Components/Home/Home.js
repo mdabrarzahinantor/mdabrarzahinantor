@@ -14,17 +14,9 @@ const variants = {
 
 function Home() {
   const [isOpen, setIsOpen] = useState(false);
-  const { ref, inView } = useInView();
-  const animation = useAnimation();
-
-  useEffect(() => {
-    if (inView) {
-      animation.start();
-    }
-  }, [inView]);
 
   return (
-    <div ref={ref} className="home">
+    <div className="home">
       <div className="scroll-to-top">
         <a href="#">
           <i class="fas fa-arrow-up    "></i>
@@ -32,11 +24,11 @@ function Home() {
       </div>
 
       <div className="mynav">
-        <div className="mynav-left">
+        <motion.div className="mynav-left">
           <a href="#">
-            <img src={Logo}></img>{" "}
+            <img src={Logo}></img>
           </a>
-        </div>
+        </motion.div>
 
         <div className="mynav-middle">
           <ul>
@@ -116,26 +108,65 @@ function Home() {
       <div className="banner">
         <div className="banner-left">
           <div className="banner-left-container">
-            <div className="banner-left-username">__mdabrarzahinantor</div>
-            <div className="banner-left-header">
+            <div
+              data-aos="fade-up"
+              data-aos-duration="1000"
+              data-aos-easing="ease-in-out-quad"
+              className="banner-left-username"
+            >
+              __mdabrarzahinantor
+            </div>
+            <div
+              data-aos="fade-up"
+              data-aos-duration="1000"
+              data-aos-delay="500"
+              data-aos-easing="ease-in-out-quad"
+              className="banner-left-header"
+            >
               find your <span className="highlighter">design,</span>
               <br></br>
               design your <span className="highlighter">finding.</span>
             </div>
-            <div className="banner-left-desc">
+            <div
+              data-aos="fade-in"
+              data-aos-duration="1000"
+              data-aos-delay="1000"
+              data-aos-easing="ease-in-out-quad"
+              className="banner-left-desc"
+            >
               I create fullstack website and illustration
             </div>
             <div className="banner-left-buttons">
-              <div className="btn1 banner-left-button">
-                <a href="#projects">Projects</a>
+              <div
+                data-aos="fade-in"
+                data-aos-duration="1000"
+                data-aos-delay="500"
+                data-aos-easing="ease-in-out-quad"
+              >
+                <div className="btn1 banner-left-button">
+                  <a href="#projects">Projects</a>
+                </div>{" "}
               </div>
-              <div className="btn2 banner-left-button">
-                <a href="#connect">Connect</a>
+              <div
+                data-aos="fade-in"
+                data-aos-duration="1000"
+                data-aos-delay="500"
+                data-aos-easing="ease-in-out-quad"
+              >
+                <div className="btn2 banner-left-button">
+                  <a href="#connect">Connect</a>
+                </div>{" "}
               </div>
             </div>
           </div>
         </div>
-        <div className="banner-right">
+        <div
+          data-aos="zoom-in"
+          data-aos-duration="1000"
+          data-aos-delay="1200"
+          data-aos-easing="ease-in-out-back"
+          className="banner-right"
+        >
           <img src={BannerIllustrationAnimated} />
         </div>
       </div>

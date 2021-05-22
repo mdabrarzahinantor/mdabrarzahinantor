@@ -173,3 +173,8 @@
     width: 100%;
   }
 }
+
+.myabout-container:hover {
+  cursor: pointer;
+  transform: translateY(3px);
+}
