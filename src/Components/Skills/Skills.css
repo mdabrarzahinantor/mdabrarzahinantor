@@ -1,0 +1,140 @@
+.skills {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 3rem;
+  width: 100%;
+}
+.skills-container {
+  margin-top: 3rem;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+}
+
+.skill-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40%;
+  background-color: #4540bd;
+  height: 100%;
+  border-radius: 3px;
+}
+.skill {
+  width: 320px;
+  height: 130px;
+  background-color: #3b37a1;
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  border-radius: 3px;
+}
+
+.skill-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 60%;
+}
+.skill-progress::after {
+  content: "";
+
+  height: 15px;
+  background-color: #ffad21;
+  border-radius: 20px;
+  position: absolute;
+}
+.skill-progress {
+  position: relative;
+  width: 150px;
+  height: 15px;
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+.skill-header {
+  font-size: 1.6rem;
+  color: #fff;
+}
+
+.react::after {
+  width: 90%;
+}
+.mongodb::after {
+  width: 30%;
+}
+.js::after {
+  width: 80%;
+}
+.nodejs::after {
+  width: 55%;
+}
+.python::after {
+  width: 75%;
+}
+.jquery::after {
+  width: 60%;
+}
+.express::after {
+  width: 80%;
+}
+.sass::after {
+  width: 80%;
+}
+.firebase::after {
+  width: 80%;
+}
+
+.skill-icon i {
+  font-size: 4rem;
+  color: #23215f;
+  transition: all 0.3s ease-in-out;
+}
+.skill-icon:hover i {
+  color: #fff;
+}
+
+@media (max-width: 1050px) {
+  .skills-container {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  }
+  .skill {
+    width: 90%;
+  }
+  .skill9 {
+    grid-column: 1/-1;
+  }
+}
+@media (max-width: 620px) {
+  .skills-container {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  }
+  .skill {
+    width: 90%;
+    height: 100px;
+    margin-bottom: 0rem;
+    border-radius: 0px;
+  }
+  .skill-icon {
+    border-radius: 0px 0px 0 0px;
+  }
+  .skill1 {
+    border-radius: 3px 3px 0px 0px;
+  }
+  .skill1 .skill-icon {
+    border-radius: 3px 0 0 0;
+  }
+  .skill9 {
+    border-radius: 0px 0px 3px 3px;
+  }
+  .skill9 .skill-icon {
+    border-radius: 0px 0 0 3px;
+  }
+}
