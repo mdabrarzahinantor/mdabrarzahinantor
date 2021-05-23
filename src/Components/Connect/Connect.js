@@ -6,7 +6,7 @@ function Connect() {
       <div
         data-aos="fade-in"
         data-aos-duration="1000"
-        data-aos-delay="100"
+        data-aos-delay="150"
         data-aos-easing="ease-in-out-quad"
         className=" spcl"
       >
