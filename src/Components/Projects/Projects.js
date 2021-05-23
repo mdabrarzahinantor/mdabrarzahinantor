@@ -14,7 +14,7 @@ function About() {
         <div
           data-aos="fade-in"
           data-aos-duration="1000"
-          data-aos-delay="50"
+          data-aos-delay="100"
           data-aos-easing="ease-in-out-quad"
           className=" spcl"
         >
