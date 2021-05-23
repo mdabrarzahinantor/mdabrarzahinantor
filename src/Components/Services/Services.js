@@ -10,7 +10,7 @@ function Services() {
         <div
           data-aos="fade-in"
           data-aos-duration="1000"
-          data-aos-delay="200"
+          data-aos-delay="300"
           data-aos-easing="ease-in-out-quad"
           className="spcl"
         >
