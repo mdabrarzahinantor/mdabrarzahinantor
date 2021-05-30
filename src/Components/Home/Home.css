@@ -85,8 +85,8 @@ html {
   left: 0;
   right: 0;
   bottom: 0;
-  height: 3px;
-  border-radius: 1px;
+  height: 4px;
+  border-radius: 4px 4px 0 0;
   background-color: #fff;
   transform: scaleX(0);
   transition: transform 300ms ease-in-out;
