@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import ProfilePic from "../../Assets/Images/ProfilePic.png";
+import ProfilePicPrimary from "../../Assets/Images/ProfilePicPrimary.png";
 import Bullet from "../../Assets/Images/BulletMarker.svg";
 function Project() {
   return (
@@ -32,7 +32,7 @@ function Project() {
             duration="1500"
             data-aos-delay="500"
             data-aos-easing="ease-in-out-back"
-            src={ProfilePic}
+            src={ProfilePicPrimary}
           />
         </div>
         <div className="myabout-right">
