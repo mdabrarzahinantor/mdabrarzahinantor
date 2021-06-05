@@ -178,3 +178,6 @@
   cursor: pointer;
   transform: translateY(3px);
 }
+.myabout-left img {
+  border-radius: 50%;
+}
