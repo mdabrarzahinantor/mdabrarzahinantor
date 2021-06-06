@@ -91,10 +91,10 @@ Guides them to the main services or product you offer.
 Collect Contact details for future ongoing relation.❞
 ― Mohamed Saad
 <div align="center">
-<a href="https://github.com/iampawan/FlutterExampleApps">
+<a href="https://github.com/mdabrarzahinantor/project-one-chat-web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdabrarzahinantor&repo=project-one-chat-web&theme=light" />
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
+<a href="https://github.com/mdabrarzahinantor/mdabrarzahinantor">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdabrarzahinantor&repo=mdabrarzahinantor&theme=light" />
 </a></div>
