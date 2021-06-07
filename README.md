@@ -26,7 +26,7 @@ const mdabrarzahinantor = {
 };
 
 ```
-<div align='right'><a href="https://antor.netlify.app/">-Learn More!</a></div>
+<div align='right'><a href="https://antor.netlify.app/">Learn More!</a></div>
 
 ## 📘 Best Of My Open Source Projects 
 
