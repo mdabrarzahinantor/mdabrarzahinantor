@@ -1,6 +1,8 @@
 ## Assalamualikum, I'm [Abrar](https://antor.netlify.app) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<img align="center" src="https://firebasestorage.googleapis.com/v0/b/react-chat-app-2887b.appspot.com/o/chat-images%2FProfile%20banner%20-%201%20(1).png?alt=media&token=d3de4041-be21-4f59-bc70-2e149a7cc117" alt="Md Abrar Zahin Antor"  /> 
+<a href="https://antor.netlify.app">
+  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/react-chat-app-2887b.appspot.com/o/chat-images%2FProfile%20banner%20-%201%20(1).png?alt=media&token=d3de4041-be21-4f59-bc70-2e149a7cc117" alt="Md Abrar Zahin Antor"  /> 
+</a>
 
 ## ✨ Who am I?
 
@@ -8,7 +10,8 @@
 const mdabrarzahinantor = {
   pronouns: "he" | "him",
   languages_and_frameworks: [
-    "PYTHON","JAVASCRIPT","CSS3","HTML5","SASS","NODEJS","MONGODB","FIREBASE","NPM","YARN","EXPRESSJS","REACT","ETC",
+    "PYTHON","JAVASCRIPT","CSS3","HTML5","SASS","NODEJS","MONGODB",
+    "FIREBASE","NPM","YARN","EXPRESSJS","REACT","ETC",
   ],
   askMeAbout: ["Web Dev", "Tech", "Islam", "Programming", "Design"],
   technologies: {
@@ -36,12 +39,12 @@ const mdabrarzahinantor = {
 ## 🌎 My Top Contribution
 
 <div align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh00710&repo=github-readme-activity-graph&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
-   <a href="https://github.com/iampawan/iampawan"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=iampawan&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
-   <a href="https://github.com/DenverCoder1/DenverCoder1"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=DenverCoder1&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
-  <a href="https://github.com/AnOrdinaryUsername/AnOrdinaryUsername"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AnOrdinaryUsername&repo=AnOrdinaryUsername&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
-  <a href="https://github.com/Hermanya/friendly-github"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hermanya&repo=friendly-github&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh00710&repo=github-readme-activity-graph&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
+    <a href="https://github.com/iampawan/iampawan"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=iampawan&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
+    <a href="https://github.com/DenverCoder1/DenverCoder1"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=DenverCoder1&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
+    <a href="https://github.com/AnOrdinaryUsername/AnOrdinaryUsername"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AnOrdinaryUsername&repo=AnOrdinaryUsername&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
+    <a href="https://github.com/Hermanya/friendly-github"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hermanya&repo=friendly-github&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
 </div>
 
 ## 🔥 Streak stats
@@ -118,18 +121,19 @@ const mdabrarzahinantor = {
     <a href="https://www.facebook.com/abrarzahinantor/">
     <img height='30' src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
-    <a href="mdabrarzahinantor2005@gmail.com">
+    <a href="https://mdabrarzahinantor2005@gmail.com">
     <img height='30' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
+<!-- ------------------ -->
+
 ## ⚙️ Programming Languages | Markup Languages | Frameworks | Database | Softwares
 
 <p align='center'>
- 
 <div align='center'>
-<code><img height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=2e2e2e"></code>
-<code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+      <code><img height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=2e2e2e"></code>
+      <code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
       <code> <img height='30' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </code>
       <code> <img height='30' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
       <code> <img height='30' src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=white"></code>
@@ -160,28 +164,30 @@ const mdabrarzahinantor = {
       <code> <img height='30' src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></code>
       <code> <img height='30' src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"></code>
       <code> <img height='30' src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"></code>
-  <code> <img height='30' src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
-  <code> <img height='30' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
-  <code> <img height='30' src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
-  <code> <img height='30' src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></code>
-  <code> <img height='30' src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
-  <code> <img height='30' src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"></code>
-  <code> <img height='30' src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code>
-  <code> <img height='30' src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></code>
-  
-      
- 
+      <code> <img height='30' src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
+      <code> <img height='30' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
+      <code> <img height='30' src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
+      <code> <img height='30' src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></code>
+      <code> <img height='30' src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
+      <code> <img height='30' src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"></code>
+      <code> <img height='30' src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code>
+      <code> <img height='30' src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></code>
 </p>
-
 </div>
 
+<!-- ------------------- -->
+
 ## ⌚ Github Status!
+
 <div align='center'>
+  
    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mdabrarzahinantor's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mdabrarzahinantor&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mdabrarzahinantor's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mdabrarzahinantor&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mdabrarzahinantor's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mdabrarzahinantor&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</div>
-  <br>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+</div>
+<br>
   
   
 
@@ -195,10 +201,10 @@ const mdabrarzahinantor = {
 
 </div>
 
-> ❝A successful website does three things:
-It attracts the right kinds of visitors.
-Guides them to the main services or product you offer.
-Collect Contact details for future ongoing relation.❞
-― Mohamed Saad
+> <div align='center'> ❝A successful website does three things:
+> It attracts the right kinds of visitors.
+> Guides them to the main services or product you offer.
+> Collect Contact details for future ongoing relation.❞
+> ― Mohamed Saad</div>
 
 
