@@ -43,7 +43,7 @@ function Project() {
                 <div>
                   <span>Who am I? </span>
                   <span>
-                    I'm Abrar. Currently working in Burgeon Bangladesh. I'm
+                    I'm Abrar. I'm
                     working with web development and design for twelve month.
                   </span>
                 </div>
