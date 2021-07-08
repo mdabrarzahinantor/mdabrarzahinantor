@@ -33,7 +33,7 @@ const mdabrarzahinantor = {
 <div align="center">
     <a href="https://github.com/mdabrarzahinantor/project-one-chat-web"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdabrarzahinantor&repo=project-one-chat-web&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/mdabrarzahinantor/mdabrarzahinantor"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdabrarzahinantor&repo=mdabrarzahinantor&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
-   <a href="https://github.com/mdabrarzahinantor/personal-blog"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdabrarzahinantor&repo=my-blog&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
+   <a href="https://github.com/mdabrarzahinantor/personal-blog"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdabrarzahinantor&repo=personal-blog&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
   
 </div>
 
